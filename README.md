@@ -1,4 +1,3 @@
-![React Developer](https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1343&q=80)
 ### Hi there 👋, my name is Asif Al-Mahmud
 #### React Developer
 
