@@ -5,7 +5,6 @@
 
 Skills: REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning react.js based UI development 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: asifalmahmud1990@gmail.com 
 - ⚡ Fun fact: I quit my textile engineering job during the first wave of the covid19 pandemic. Started learning programming with the encouragement and help of my elder brother - who is a software engineer. And now i am loving it. 
